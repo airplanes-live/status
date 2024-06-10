@@ -11,11 +11,11 @@ sites:
     url: https://maps.airplanes.live
   - name: api.airplanes.live
     url: https://api.airplanes.live/status
-  - name: feed.airplanes.live:30004
+  - name: BEAST Ingest
     url: feed.airplanes.live
     check: tcp-ping
     port: 30004
-  - name: feed.airplanes.live:31090
+  - name: MLAT Ingest
     url: feed.airplanes.live
     check: tcp-ping
     port: 31090
