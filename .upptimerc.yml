@@ -1,6 +1,5 @@
-# Change these first
-owner: airplanes-live # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: airplanes-live
+repo: status
 
 sites:
   - name: airplanes.live
@@ -21,11 +20,8 @@ sites:
     port: 31090
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.airplanes.live
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/airplanes-live/status/master/assets/icon.svg
   name: Upptime
   introTitle: "Airplanes.live Status"
   introMessage: ""
@@ -34,6 +30,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/airplanes-live/status
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
