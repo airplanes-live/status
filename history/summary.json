@@ -4,19 +4,19 @@
     "url": "https://airplanes.live",
     "icon": "https://icons.duckduckgo.com/ip3/airplanes.live.ico",
     "slug": "airplanes-live",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 553,
-    "timeDay": 10187,
-    "timeWeek": 2872,
-    "timeMonth": 1245,
+    "timeDay": 6991,
+    "timeWeek": 2620,
+    "timeMonth": 1225,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2025-09-17": 0
+      "2025-09-17": 27
     }
   },
   {
