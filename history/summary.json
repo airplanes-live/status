@@ -63,18 +63,20 @@
     "url": "https://api.airplanes.live/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.airplanes.live.ico",
     "slug": "api-airplanes-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 351,
-    "timeWeek": 295,
-    "timeMonth": 328,
-    "timeYear": 408,
-    "dailyMinutesDown": {}
+    "time": 408,
+    "timeDay": 618,
+    "timeWeek": 368,
+    "timeMonth": 346,
+    "timeYear": 409,
+    "dailyMinutesDown": {
+      "2025-10-01": 0
+    }
   },
   {
     "name": "BEAST Ingest",
