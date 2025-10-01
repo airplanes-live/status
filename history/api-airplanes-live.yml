@@ -1,7 +1,7 @@
 url: https://api.airplanes.live/status
-status: down
-code: 503
-responseTime: 884
-lastUpdated: 2025-10-01T02:50:26.374Z
+status: up
+code: 200
+responseTime: 361
+lastUpdated: 2025-10-01T03:03:08.718Z
 startTime: 2024-06-10T02:36:46.366Z
 generator: Upptime <https://github.com/upptime/upptime>
