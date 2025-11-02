@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 545,
-    "timeDay": 588,
-    "timeWeek": 403,
-    "timeMonth": 445,
+    "time": 546,
+    "timeDay": 622,
+    "timeWeek": 455,
+    "timeMonth": 449,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2025-09-17": 27
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 496,
-    "timeDay": 358,
-    "timeWeek": 350,
-    "timeMonth": 327,
-    "timeYear": 446,
+    "timeDay": 274,
+    "timeWeek": 318,
+    "timeMonth": 320,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2025-02-17": 59
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 526,
-    "timeDay": 578,
-    "timeWeek": 596,
-    "timeMonth": 557,
+    "timeDay": 437,
+    "timeWeek": 551,
+    "timeMonth": 558,
     "timeYear": 534,
     "dailyMinutesDown": {}
   },
@@ -64,15 +64,15 @@
     "slug": "api-airplanes-live",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 401,
-    "timeDay": 297,
-    "timeWeek": 345,
-    "timeMonth": 325,
-    "timeYear": 405,
+    "timeDay": 279,
+    "timeWeek": 289,
+    "timeMonth": 309,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2025-10-31": 21
     }
@@ -89,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 118,
-    "timeDay": 121,
-    "timeWeek": 127,
+    "timeDay": 109,
+    "timeWeek": 120,
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
@@ -109,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 118,
-    "timeDay": 120,
-    "timeWeek": 128,
-    "timeMonth": 119,
+    "timeDay": 111,
+    "timeWeek": 121,
+    "timeMonth": 120,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-03-18": 116
