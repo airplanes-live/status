@@ -6,8 +6,6 @@ sites:
     url: https://airplanes.live
   - name: globe.airplanes.live
     url: https://globe.airplanes.live
-  - name: maps.airplanes.live
-    url: https://maps.airplanes.live
   - name: api.airplanes.live
     url: https://api.airplanes.live/status
   - name: BEAST Ingest
