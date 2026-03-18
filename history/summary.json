@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
     "time": 756,
-    "timeDay": 433,
-    "timeWeek": 537,
-    "timeMonth": 555,
-    "timeYear": 831,
+    "timeDay": 600,
+    "timeWeek": 543,
+    "timeMonth": 560,
+    "timeYear": 832,
     "dailyMinutesDown": {
       "2026-02-04": 54,
       "2025-11-29": 1077,
@@ -40,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 424,
-    "timeDay": 590,
-    "timeWeek": 550,
-    "timeMonth": 557,
+    "timeDay": 579,
+    "timeWeek": 576,
+    "timeMonth": 561,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2025-11-18": 139
@@ -59,11 +59,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 376,
-    "timeDay": 179,
-    "timeWeek": 216,
-    "timeMonth": 241,
-    "timeYear": 368,
+    "time": 375,
+    "timeDay": 236,
+    "timeWeek": 225,
+    "timeMonth": 240,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2026-02-05": 54,
       "2026-01-16": 126,
@@ -86,13 +86,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 120,
-    "timeDay": 113,
-    "timeWeek": 121,
-    "timeMonth": 119,
+    "timeDay": 159,
+    "timeWeek": 130,
+    "timeMonth": 122,
     "timeYear": 119,
-    "dailyMinutesDown": {
-      "2025-03-18": 118
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MLAT Ingest",
@@ -106,12 +104,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 120,
-    "timeDay": 117,
-    "timeWeek": 122,
-    "timeMonth": 120,
+    "timeDay": 157,
+    "timeWeek": 131,
+    "timeMonth": 122,
     "timeYear": 119,
-    "dailyMinutesDown": {
-      "2025-03-18": 116
-    }
+    "dailyMinutesDown": {}
   }
 ]
